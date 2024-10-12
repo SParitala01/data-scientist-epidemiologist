@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Tech Stack: Python | R | SAS | SQLTableau | Git | Azure | Databricks | JIRA | Electronic Health Records | MatchPro | APIs | Exploratory Data | Analysis | Advanced Data Wrangling | Statistical Modeling | Web Data Scraping | Machine Learning | A/B Testing & Hypothesis Testing | Time Series | ETL Processes | Microsoft Excel | Notion
+#### Tech Stack: Python | R | SAS | SQL | Tableau | Git | Azure | Databricks | JIRA | Electronic Health Records | MatchPro | Rest APIs | Exploratory Data | Analysis | Advanced Data Wrangling | Statistical Modeling | Web Data Scraping | Machine Learning | A/B Testing & Hypothesis Testing | Time Series | ETL Processes | Microsoft Excel | Notion
 
 ## Education
 - MPH, Epidemiology & Biostatistics | University of Illinois at Chicago (_Aug 2019_)
