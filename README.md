@@ -2,6 +2,12 @@
 
 #### Programming
 Python | R | SAS | SQL | Tableau | Git | Azure 
+Databricks |JIRA | EHR | MatchPro | Rest APIs 
+Machine Learning | Time Series | ETL Processes
+Statistical Modeling | Web Data Scraping 
+Exploratory Data Analysis | Data Wrangling 
+A/B Testing | Hypothesis Testing 
+Microsoft Excel | Notion
 
 #### Tech Stack
 Databricks |JIRA | EHR | MatchPro | Rest APIs | Machine Learning | Time Series | ETL Processes | 
