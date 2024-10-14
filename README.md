@@ -16,29 +16,29 @@ When I’m not analyzing data, I enjoy mentoring other data professionals, stayi
 📫 **Let’s connect!**  
 [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
 
+
 ### <span style="color:#FF6347">Programming</span>  
 - Python, R, SAS, SQL  
+
 
 ### <span style="color:#32CD32">Analytics</span>  
 - Tableau, Matplotlib Seaborn Plotly, R Shiny, Microsoft Excel
 - Exploratory Data Analysis, Data Wrangling & Manipulation
 - A/B Testing, Hypothesis Testing, Statistical Modeling  
 
+
 ### <span style="color:#FFA500">Cloud & ETL Platforms</span> 
 - Azure, Databricks, ETL Processes, Rest APIs  
 
+
 ### <span style="color:#8A2BE2">Machine Learning</span>  
-- Machine Learning 
-- Time Series Forecasting & Modeling  
-- Web Data Scraping
-- EHR
-- MatchPro  
+- Machine Learning, Time Series Forecasting & Modeling  
+- Web Data Scraping, EHR, MatchPro  
+
 
 ### Workflow & Productivity Tools  
--  JIRA
--  Notion
-- Git
-- GitHub
+-  JIRA, Notion, Git, GitHub
+
 
 ## Education
 - MPH, Epidemiology & Biostatistics | University of Illinois at Chicago (_Aug 2019_)
