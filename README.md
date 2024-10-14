@@ -21,9 +21,9 @@ When I’m not analyzing data, I enjoy mentoring other data professionals, stayi
 
 ### <span style="color:#32CD32">Analytics</span>  
 - **Data Visualization**:
-  Tableau | Matplotlib | Seaborn|  Plotly | R Shiny | Microsoft Excel
+- Tableau | Matplotlib | Seaborn|  Plotly | R Shiny | Microsoft Excel
 - **Analysis & Modeling**:
-  Exploratory Data Analysis | Data Wrangling | Statistical Modeling | A/B Testing | Hypothesis Testing  
+- Exploratory Data Analysis | Data Wrangling | Statistical Modeling | A/B Testing | Hypothesis Testing  
 
 ### <span style="color:#FFA500">Cloud & ETL Platforms</span>  
 - **Cloud & Data Platforms**:
