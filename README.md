@@ -1,25 +1,24 @@
 # Data Scientist
 
 ### Programming  
-- **Python, R, SAS, SQL  
+- **Python, R, SAS, SQL**  
 
 ### Analytics  
-- **Data Visualization**: Tableau
-- **Analysis & Modeling**: Statistical Modeling, A/B Testing, Hypothesis Testing  
-- **Exploratory Data & Data Wrangling**:  
-  Exploratory Data Analysis | Data Wrangling  
+- **Data Visualization**: Tableau, Python:- Matplotlib-Seaborn-Plotly, R Shiny, Microsoft Excel
+- **Analysis & Modeling**: Exploratory Data Analysis, Data Wrangling, Statistical Modeling, A/B Testing, Hypothesis Testing  
 
 ### Cloud & ETL Platforms  
 - **Cloud & Data Platforms**: Azure | Databricks  
 - **ETL & Data Integration**: ETL Processes | Rest APIs  
 
-### Data Engineering & Machine Learning  
+### Machine Learning  
 - **Machine Learning & Modeling**: Machine Learning | Time Series  
 - **Data Engineering & Automation**:  
   Web Data Scraping | EHR | MatchPro  
 
 ### Workflow & Productivity Tools  
-- **Project Management**: JIRA | Notion  
+- **Project Management**: JIRA | Notion
+- **Version Control**: Git, GitHub
 
 ## Education
 - MPH, Epidemiology & Biostatistics | University of Illinois at Chicago (_Aug 2019_)
