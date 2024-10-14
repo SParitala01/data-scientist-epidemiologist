@@ -1,13 +1,11 @@
 # Data Scientist
 
-### Languages & Programming Tools  
-- **Programming Languages**: Python | R | SAS | SQL  
-- **Version Control & Collaboration**: Git | JIRA  
+### Programming  
+- **Python, R, SAS, SQL  
 
-### Data Science & Analytics Tools  
-- **Data Visualization**: Tableau | Microsoft Excel  
-- **Statistical Analysis & Modeling**:  
-  Statistical Modeling | A/B Testing | Hypothesis Testing  
+### Analytics  
+- **Data Visualization**: Tableau
+- **Analysis & Modeling**: Statistical Modeling, A/B Testing, Hypothesis Testing  
 - **Exploratory Data & Data Wrangling**:  
   Exploratory Data Analysis | Data Wrangling  
 
