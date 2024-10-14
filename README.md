@@ -23,26 +23,34 @@ When I’m not analyzing data, I enjoy mentoring other data professionals, stayi
 - SQL  
 
 ### <span style="color:#32CD32">Analytics</span>  
-- **Data Visualization**:
-- Tableau Matplotlib Seaborn Plotly R Shiny Microsoft Excel
-- **Analysis & Modeling**:
-- Exploratory Data Analysis Data Wrangling Statistical Modeling A/B Testing Hypothesis Testing  
+- Tableau
+- Matplotlib Seaborn Plotly
+- R Shiny
+- Microsoft Excel
+- Exploratory Data Analysis 
+- Data Wrangling
+- A/B Testing
+- Hypothesis Testing
+- Statistical Modeling  
 
 ### <span style="color:#FFA500">Cloud & ETL Platforms</span>  
-- **Cloud & Data Platforms**:
-- Azure | Databricks  
-- **ETL & Data Integration**:
-- ETL Processes | Rest APIs  
+- Azure
+- Databricks  
+- ETL Processes
+- Rest APIs  
 
 ### <span style="color:#8A2BE2">Machine Learning</span>  
-- **Machine Learning & Modeling**:
-- Machine Learning | Time Series  
-- **Data Engineering & Automation**:  
-  Web Data Scraping | EHR | MatchPro  
+- Machine Learning 
+- Time Series Forecasting & Modeling  
+- Web Data Scraping
+- EHR
+- MatchPro  
 
 ### Workflow & Productivity Tools  
-- **Project Management**: JIRA | Notion
-- **Version Control**: Git, GitHub
+-  JIRA
+-  Notion
+- Git
+- GitHub
 
 ## Education
 - MPH, Epidemiology & Biostatistics | University of Illinois at Chicago (_Aug 2019_)
