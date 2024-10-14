@@ -20,15 +20,20 @@ When I’m not analyzing data, I enjoy mentoring other data professionals, stayi
 - Python, R, SAS, SQL  
 
 ### <span style="color:#32CD32">Analytics</span>  
-- **Data Visualization**: Tableau, Python:- Matplotlib-Seaborn-Plotly, R Shiny, Microsoft Excel
-- **Analysis & Modeling**: Exploratory Data Analysis, Data Wrangling, Statistical Modeling, A/B Testing, Hypothesis Testing  
+- **Data Visualization**:
+- Tableau, Python:- Matplotlib-Seaborn-Plotly, R Shiny, Microsoft Excel
+- **Analysis & Modeling**:
+- Exploratory Data Analysis, Data Wrangling, Statistical Modeling, A/B Testing, Hypothesis Testing  
 
-### Cloud & ETL Platforms  
-- **Cloud & Data Platforms**: Azure | Databricks  
-- **ETL & Data Integration**: ETL Processes | Rest APIs  
+### <span style="color:#FFA500">Cloud & ETL Platforms</span>  
+- **Cloud & Data Platforms**:
+- Azure | Databricks  
+- **ETL & Data Integration**:
+- ETL Processes | Rest APIs  
 
-### Machine Learning  
-- **Machine Learning & Modeling**: Machine Learning | Time Series  
+### <span style="color:#8A2BE2">Machine Learning</span>  
+- **Machine Learning & Modeling**:
+- Machine Learning | Time Series  
 - **Data Engineering & Automation**:  
   Web Data Scraping | EHR | MatchPro  
 
