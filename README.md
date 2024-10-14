@@ -1,20 +1,27 @@
 # Data Scientist
 
-#### Programming
-Python | R | SAS | SQL | Tableau | Git | Azure 
-Databricks |JIRA | EHR | MatchPro | Rest APIs 
-Machine Learning | Time Series | ETL Processes
-Statistical Modeling | Web Data Scraping 
-Exploratory Data Analysis | Data Wrangling 
-A/B Testing | Hypothesis Testing 
-Microsoft Excel | Notion
+### Languages & Programming Tools  
+- **Programming Languages**: Python | R | SAS | SQL  
+- **Version Control & Collaboration**: Git | JIRA  
 
-#### Tech Stack
-Databricks |JIRA | EHR | MatchPro | Rest APIs | Machine Learning | Time Series | ETL Processes | 
-Statistical Modeling | Web Data Scraping |
-Exploratory Data Analysis | Data Wrangling |
-A/B Testing | Hypothesis Testing |
-Microsoft Excel | Notion
+### Data Science & Analytics Tools  
+- **Data Visualization**: Tableau | Microsoft Excel  
+- **Statistical Analysis & Modeling**:  
+  Statistical Modeling | A/B Testing | Hypothesis Testing  
+- **Exploratory Data & Data Wrangling**:  
+  Exploratory Data Analysis | Data Wrangling  
+
+### Cloud & ETL Platforms  
+- **Cloud & Data Platforms**: Azure | Databricks  
+- **ETL & Data Integration**: ETL Processes | Rest APIs  
+
+### Data Engineering & Machine Learning  
+- **Machine Learning & Modeling**: Machine Learning | Time Series  
+- **Data Engineering & Automation**:  
+  Web Data Scraping | EHR | MatchPro  
+
+### Workflow & Productivity Tools  
+- **Project Management**: JIRA | Notion  
 
 ## Education
 - MPH, Epidemiology & Biostatistics | University of Illinois at Chicago (_Aug 2019_)
