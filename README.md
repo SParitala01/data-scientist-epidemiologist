@@ -33,8 +33,8 @@ When I’m not analyzing data, I enjoy mentoring other data professionals, stayi
 - Hypothesis Testing
 - Statistical Modeling  
 
-### <span style="color:#FFA500">Cloud & ETL Platforms</span>  
-- Azure
+### <span style="color:#FFA500">Cloud & ETL Platforms</span>  ### <span style="color:#8A2BE2">Machine Learning</span>  
+- Azure                                                       - Machine Learning
 - Databricks  
 - ETL Processes
 - Rest APIs  
