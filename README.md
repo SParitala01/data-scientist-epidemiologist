@@ -1,9 +1,9 @@
 # Data Scientist
 
-### Programming  
+### <span style="color:#FF6347">Programming</span>  
 - **Python, R, SAS, SQL**  
 
-### Analytics  
+### <span style="color:#32CD32">Analytics</span>  
 - **Data Visualization**: Tableau, Python:- Matplotlib-Seaborn-Plotly, R Shiny, Microsoft Excel
 - **Analysis & Modeling**: Exploratory Data Analysis, Data Wrangling, Statistical Modeling, A/B Testing, Hypothesis Testing  
 
