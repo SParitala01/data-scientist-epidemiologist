@@ -16,7 +16,7 @@ When I’m not analyzing data, I enjoy mentoring other data professionals, stayi
 📫 **Let’s connect!**  
 [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
 
-
+## Techstack
 ### <span style="color:#FF6347">Programming</span>  
 - Python, R, SAS, SQL  
 
