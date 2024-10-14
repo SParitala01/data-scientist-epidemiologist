@@ -17,7 +17,10 @@ When I’m not analyzing data, I enjoy mentoring other data professionals, stayi
 [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
 
 ### <span style="color:#FF6347">Programming</span>  
-- Python, R, SAS, SQL  
+- Python
+- R
+- SAS
+- SQL  
 
 ### <span style="color:#32CD32">Analytics</span>  
 - **Data Visualization**:
