@@ -17,27 +17,15 @@ When I’m not analyzing data, I enjoy mentoring other data professionals, stayi
 [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
 
 ### <span style="color:#FF6347">Programming</span>  
-- Python
-- R
-- SAS
-- SQL  
+- Python, R, SAS, SQL  
 
 ### <span style="color:#32CD32">Analytics</span>  
-- Tableau
-- Matplotlib Seaborn Plotly
-- R Shiny
-- Microsoft Excel
-- Exploratory Data Analysis 
-- Data Wrangling
-- A/B Testing
-- Hypothesis Testing
-- Statistical Modeling  
+- Tableau, Matplotlib Seaborn Plotly, R Shiny, Microsoft Excel
+- Exploratory Data Analysis, Data Wrangling & Manipulation
+- A/B Testing, Hypothesis Testing, Statistical Modeling  
 
-### <span style="color:#FFA500">Cloud & ETL Platforms</span>  <span style="color:#8A2BE2">Machine Learning</span> 
-- Azure                                                       - Machine Learning
-- Databricks  
-- ETL Processes
-- Rest APIs  
+### <span style="color:#FFA500">Cloud & ETL Platforms</span> 
+- Azure, Databricks, ETL Processes, Rest APIs  
 
 ### <span style="color:#8A2BE2">Machine Learning</span>  
 - Machine Learning 
