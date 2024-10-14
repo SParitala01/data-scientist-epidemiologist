@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### <span style="color:#FF6347">Programming</span>  
-- **Python, R, SAS, SQL**  
+- Python, R, SAS, SQL  
 
 ### <span style="color:#32CD32">Analytics</span>  
 - **Data Visualization**: Tableau, Python:- Matplotlib-Seaborn-Plotly, R Shiny, Microsoft Excel
