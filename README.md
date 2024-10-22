@@ -29,7 +29,7 @@ If you are someone who values curiosity, collaboration, and ideas, I’d be exci
 <div align="justify">
 When I am not analyzing data, I enjoy mentoring other data professionals, staying active in the epidemiology community, and continuously sharpening my skills in emerging technologies.
 </div>
-<be>
+<br>
 
 <br>
 📫 **Let’s connect!**  
