@@ -16,7 +16,7 @@ My expertise lies at the intersection of data science and epidemiology, focusing
 
 When I am not analyzing data, I enjoy mentoring other data professionals, staying active in the epidemiology community, and continuously sharpening my skills in emerging technologies.
 
-
+--
 📫 **Let’s connect!**  
 [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
 
