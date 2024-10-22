@@ -21,11 +21,7 @@ If you are someone who values curiosity, collaboration, and ideas, I’d be exci
 - Building dashboards with Tableau and R Shiny
 - Cloud computing and ETL automation with Azure & Databricks
 
-<br>
-<div align="justify">
 When I am not analyzing data, I enjoy mentoring other data professionals, staying active in the epidemiology community, and continuously sharpening my skills in emerging technologies.
-</div>
-<br>
 
 📫 **Let’s connect!**  
 [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
