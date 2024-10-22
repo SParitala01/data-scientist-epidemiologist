@@ -15,7 +15,9 @@ My expertise lies at the intersection of data science and epidemiology, focusing
 - Building dashboards with Tableau and Power BI
 - Cloud computing and ETL automation with Azure & Databricks
 
+<div align="justify">
 When I am not analyzing data, I enjoy mentoring other data professionals, staying active in the epidemiology community, and continuously sharpening my skills in emerging technologies.
+</div>
 
 📫 **Let’s connect!**  
 [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
