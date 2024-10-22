@@ -4,6 +4,7 @@
 
 <div align="justify">
 Hi, I’m Sai Paritala! I’m a data scientist and applied epidemiologist with over 5 years of experience building data-driven public health solutions. My expertise lies at the intersection of data science and epidemiology, focusing on infectious disease surveillance, forecasting, and developing analytic tools.
+</div>
 
 🔍 I enjoy working with complex datasets, building predictive models, and crafting dashboards to help organizations unlock insights and make informed decisions. Whether wrangling messy data, developing ETL pipelines, or using statistical models for real-world challenges, I thrive on solving impactful problems.
 
@@ -13,7 +14,7 @@ Hi, I’m Sai Paritala! I’m a data scientist and applied epidemiologist with o
 - Cloud computing and ETL automation with Azure & Databricks
 
 When I am not analyzing data, I enjoy mentoring other data professionals, staying active in the epidemiology community, and continuously sharpening my skills in emerging technologies.
-</div>
+
 
 📫 **Let’s connect!**  
 [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
