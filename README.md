@@ -1,8 +1,9 @@
 # Data Scientist | Epidemiologist
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start;">
+
   <!-- About Me Section -->
-  <div style="flex: 1;">
+  <div style="padding: 20px;">
     <h2>👋 About Me</h2>
     <p>I’m Sai Paritala, a data scientist and applied epidemiologist with over five years of experience turning data into impactful public health solutions. My work sits at the crossroads of data science and epidemiology, focused on tracking infectious diseases, forecasting, and developing tools that help organizations respond effectively.</p>
     
@@ -24,7 +25,7 @@
   </div>
 
   <!-- Techstack Section -->
-  <div style="flex: 1; max-width: 600px;">
+  <div style="padding: 20px;">
     <h2>💻 Techstack</h2>
     <table style="width: 100%;">
       <thead>
@@ -86,6 +87,7 @@
       </tbody>
     </table>
   </div>
+
 </div>
 
 
