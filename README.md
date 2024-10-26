@@ -46,38 +46,38 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
     </tr>
   </thead>
   <tbody>
-    <tr style="vertical-align: top; padding: 10px 0;">
-      <td style="text-align:left;">🖥️ <b>Programming</b></td>
-      <td>
+    <tr style="vertical-align: top;">
+      <td style="text-align:left; padding: 10px;">🖥️ <b>Programming</b></td>
+      <td style="padding: 10px;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
         <img src="https://img.shields.io/badge/SAS-2E8B57?style=for-the-badge&logoColor=white" />
         <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logoColor=white" />
       </td>
     </tr>
-    <tr style="vertical-align: top; padding: 10px 0;">
-      <td style="text-align:left;">📊 <b>Analytics & Statistical Modeling</b></td>
-      <td>
-        <ul style="margin: 5px 0; padding-left: 20px;">
+    <tr style="vertical-align: top;">
+      <td style="text-align:left; padding: 10px;">📊 <b>Analytics & Statistical Modeling</b></td>
+      <td style="padding: 10px;">
+        <ul style="margin: 0; padding: 0 0 0 20px;">
           <li><b>Tools:</b> Tableau, Matplotlib, Seaborn, Plotly, R Shiny, Excel</li>
           <li><b>Core Skills:</b> Data Wrangling, Hypothesis Testing, Exploratory Data Analysis</li>
           <li><b>Models:</b> Linear Regression, Logistic Regression, Time-Series Models (ARIMA, sARIMA), Survival Analysis</li>
         </ul>
       </td>
     </tr>
-    <tr style="vertical-align: top; padding: 10px 0;">
-      <td style="text-align:left;">☁️ <b>Cloud & ETL</b></td>
-      <td>
-        <ul style="margin: 5px 0; padding-left: 20px;">
+    <tr style="vertical-align: top;">
+      <td style="text-align:left; padding: 10px;">☁️ <b>Cloud & ETL</b></td>
+      <td style="padding: 10px;">
+        <ul style="margin: 0; padding: 0 0 0 20px;">
           <li><b>Platforms:</b> Azure, Databricks</li>
           <li><b>Expertise:</b> ETL Processes, API Integration</li>
         </ul>
       </td>
     </tr>
-    <tr style="vertical-align: top; padding: 10px 0;">
-      <td style="text-align:left;">🤖 <b>Machine Learning & Forecasting</b></td>
-      <td>
-        <ul style="margin: 5px 0; padding-left: 20px;">
+    <tr style="vertical-align: top;">
+      <td style="text-align:left; padding: 10px;">🤖 <b>Machine Learning & Forecasting</b></td>
+      <td style="padding: 10px;">
+        <ul style="margin: 0; padding: 0 0 0 20px;">
           <li><b>Techniques:</b> Supervised Learning (Linear & Logistic Regression, Classification), Feature Engineering</li>
           <li><b>Forecasting:</b> Time-Series Models (ARIMA, sARIMA, LSTM)</li>
           <li><b>Libraries & Tools:</b> Scikit-learn, XGBoost, TensorFlow</li>
@@ -85,10 +85,10 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
         </ul>
       </td>
     </tr>
-    <tr style="vertical-align: top; padding: 10px 0;">
-      <td style="text-align:left;">📋 <b>Productivity</b></td>
-      <td>
-        <ul style="margin: 5px 0; padding-left: 20px;">
+    <tr style="vertical-align: top;">
+      <td style="text-align:left; padding: 10px;">📋 <b>Productivity</b></td>
+      <td style="padding: 10px;">
+        <ul style="margin: 0; padding: 0 0 0 20px;">
           <li>JIRA (Project Management), Notion (Documentation), Git/GitHub (Version Control)</li>
         </ul>
       </td>
