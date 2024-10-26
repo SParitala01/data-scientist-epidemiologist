@@ -1,31 +1,32 @@
 # Data Scientist | Epidemiologist
 
 
-## About Me
-<table style="width: 100%;">
-<div align="justify">
-If you’re here, maybe something caught your eye! 👋🏾
-
-<br>
-I’m Sai Paritala, a data scientist and applied epidemiologist with over five years of experience turning data into impactful public health solutions. My work sits at the crossroads of data science and epidemiology, focused on tracking infectious diseases, forecasting, and developing tools that help organizations respond effectively.
-<br>
-
-<br>
-🔎 I love uncovering stories hidden in messy datasets and building solutions that matter. Whether it’s crafting machine learning models, streamlining ETL pipelines, or designing dashboards, I find meaning in solving real-world problems. There’s nothing quite like building tools today that will empower decision-makers for tomorrow’s challenges.
-<br>
-
-<br>
-If you are someone who values curiosity, collaboration, and ideas, I’d be excited to connect and explore how we can create something meaningful together.
-</div>
-<br>
-💡 Some of my current interests include:
-- Machine Learning and Time Series Forecasting
-- Building dashboards with Tableau and R Shiny
-- Cloud computing and ETL automation with Azure & Databricks
-
-<div align="justify">
-When I am not analyzing data, I enjoy mentoring other data professionals, staying active in the epidemiology community, and continuously sharpening my skills in emerging technologies.
-</div>
+<h2>👋 About Me</h2>
+<table style="width: 100%; border-spacing: 0; border-collapse: collapse;">
+  <tr>
+    <td style="padding: 10px;">
+      <div align="justify">
+        If you’re here, maybe something caught your eye! 👋🏾
+        <br><br>
+        I’m Sai Paritala, a data scientist and applied epidemiologist with over five years of experience turning data into impactful public health solutions. My work sits at the crossroads of data science and epidemiology, focused on tracking infectious diseases, forecasting, and developing tools that help organizations respond effectively.
+        <br><br>
+        🔎 I love uncovering stories hidden in messy datasets and building solutions that matter. Whether it’s crafting machine learning models, streamlining ETL pipelines, or designing dashboards, I find meaning in solving real-world problems. There’s nothing quite like building tools today that will empower decision-makers for tomorrow’s challenges.
+        <br><br>
+        If you are someone who values curiosity, collaboration, and ideas, I’d be excited to connect and explore how we can create something meaningful together.
+      </div>
+      <br>
+      <h3>💡 Some of my current interests include:</h3>
+      <ul>
+        <li>Machine Learning and Time Series Forecasting</li>
+        <li>Building dashboards with Tableau and R Shiny</li>
+        <li>Cloud computing and ETL automation with Azure & Databricks</li>
+      </ul>
+      <div align="justify">
+        When I am not analyzing data, I enjoy mentoring other data professionals, staying active in the epidemiology community, and continuously sharpening my skills in emerging technologies.
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
