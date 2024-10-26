@@ -38,6 +38,8 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
 
 ## 💻 Techstack
 
+## 💻 Techstack
+
 <table>
   <thead>
     <tr>
@@ -58,36 +60,44 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
     <tr>
       <td style="text-align:justify;">📊 <b>Analytics</b></td>
       <td>
-        <ul>
-          <li>Tools: Tableau, Matplotlib, Seaborn, Plotly, R Shiny, Excel</li>
-          <li>Techniques: Data Wrangling & Manipulation, A/B Testing, Hypothesis Testing</li>
-          <li>Modeling: Exploratory Data Analysis, Statistical Modeling</li>
-        </ul>
+        <div align="justify">
+          <ul>
+            <li><b>Tools:</b> Tableau, Matplotlib, Seaborn, Plotly, R Shiny, Excel</li>
+            <li><b>Techniques:</b> Data Wrangling & Manipulation, A/B Testing, Hypothesis Testing</li>
+            <li><b>Modeling:</b> Exploratory Data Analysis, Statistical Modeling</li>
+          </ul>
+        </div>
       </td>
     </tr>
     <tr>
       <td style="text-align:justify;">☁️ <b>Cloud & ETL Platforms</b></td>
       <td>
-        <ul>
-          <li>Azure, Databricks</li>
-          <li>ETL Processes, REST APIs</li>
-        </ul>
+        <div align="justify">
+          <ul>
+            <li>Azure, Databricks</li>
+            <li>ETL Processes, REST APIs</li>
+          </ul>
+        </div>
       </td>
     </tr>
     <tr>
       <td style="text-align:justify;">🤖 <b>Predictive Modeling</b></td>
       <td>
-        <ul>
-          <li>Machine Learning, Time Series Forecasting & Modeling</li>
-        </ul>
+        <div align="justify">
+          <ul>
+            <li>Machine Learning, Time Series Forecasting & Modeling</li>
+          </ul>
+        </div>
       </td>
     </tr>
     <tr>
       <td style="text-align:justify;">📋 <b>Productivity Tools</b></td>
       <td>
-        <ul>
-          <li>JIRA, Notion, Git, GitHub</li>
-        </ul>
+        <div align="justify">
+          <ul>
+            <li>JIRA, Notion, Git, GitHub</li>
+          </ul>
+        </div>
       </td>
     </tr>
   </tbody>
