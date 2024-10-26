@@ -60,8 +60,7 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       <td>
         <ul style="margin: 0; padding-left: 20px;">
           <li><b>Tools:</b> Tableau, Matplotlib, Seaborn, Plotly, R Shiny, Excel</li>
-          <li><b>Techniques:</b> Data Wrangling & Manipulation, A/B Testing, Hypothesis Testing</li>
-          <li><b>Modeling:</b> Exploratory Data Analysis, Statistical Modeling</li>
+          <li><b>Core Skills:</b> Data Wrangling, Hypothesis Testing, Exploratory Data Analysis, Statistical Modeling</li>
         </ul>
       </td>
     </tr>
@@ -69,8 +68,8 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       <td style="text-align:left;">☁️ <b>Cloud & ETL</b></td>
       <td>
         <ul style="margin: 0; padding-left: 20px;">
-          <li>Azure, Databricks</li>
-          <li>ETL Processes, REST APIs</li>
+          <li><b>Platforms:</b> Azure, Databricks</li>
+          <li><b>Expertise:</b> ETL Processes, API Integration</li>
         </ul>
       </td>
     </tr>
@@ -78,8 +77,8 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       <td style="text-align:left;">🤖 <b>Modeling & Forecasting</b></td>
       <td>
         <ul style="margin: 0; padding-left: 20px;">
-          <li>Machine Learning, Time Series Forecasting & Modeling</li>
-          <li>Web Data Scraping, EHR, MatchPro</li>
+          <li><b>Skills:</b> Machine Learning (with Time Series Forecasting)</li>
+          <li><b>Tools:</b> Web Data Scraping, EHR Systems, MatchPro</li>
         </ul>
       </td>
     </tr>
@@ -87,7 +86,7 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       <td style="text-align:left;">📋 <b>Productivity</b></td>
       <td>
         <ul style="margin: 0; padding-left: 20px;">
-          <li>JIRA, Notion, Git, GitHub</li>
+          <li>JIRA (Project Management), Notion (Documentation), Git/GitHub (Version Control)</li>
         </ul>
       </td>
     </tr>
