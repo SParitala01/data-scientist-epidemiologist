@@ -61,7 +61,7 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
         <ul style="margin: 0; padding-left: 20px;">
           <li><b>Tools:</b> Tableau, Matplotlib, Seaborn, Plotly, R Shiny, Excel</li>
           <li><b>Core Skills:</b> Data Wrangling, Hypothesis Testing, Exploratory Data Analysis</li>
-          <li><b>Statistical Models:</b> Linear Regression, Logistic Regression, Time-Series Models (ARIMA, sARIMA), Survival Analysis</li>
+          <li><b>Models:</b> Linear Regression, Logistic Regression, Time-Series Models (ARIMA, sARIMA), Survival Analysis</li>
         </ul>
       </td>
     </tr>
@@ -78,9 +78,10 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       <td style="text-align:left;">🤖 <b>Machine Learning & Forecasting</b></td>
       <td>
         <ul style="margin: 0; padding-left: 20px;">
-          <li><b>Algorithms & Techniques:</b> Supervised Learning (Regression, Classification), Unsupervised Learning (Clustering, PCA), Feature Engineering</li>
-          <li><b>Frameworks & Tools:</b> Scikit-learn, TensorFlow, PyTorch, XGBoost</li>
-          <li><b>Applications:</b> Time-Series Forecasting (ARIMA, LSTM), Model Deployment with MLflow</li>
+          <li><b>Techniques:</b> Supervised Learning (Linear & Logistic Regression, Classification), Feature Engineering</li>
+          <li><b>Forecasting:</b> Time-Series Models (ARIMA, sARIMA, LSTM)</li>
+          <li><b>Libraries & Tools:</b> Scikit-learn, XGBoost, TensorFlow</li>
+          <li><b>Applications:</b> Predictive Modeling for Healthcare, Model Deployment with MLflow</li>
         </ul>
       </td>
     </tr>
