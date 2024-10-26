@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist | Epidemiologist
 
 ## About Me
 
@@ -17,7 +17,6 @@ I’m Sai Paritala, a data scientist and applied epidemiologist with over five y
 If you are someone who values curiosity, collaboration, and ideas, I’d be excited to connect and explore how we can create something meaningful together.
 </div>
 <br>
-
 💡 Some of my current interests include:
 - Machine Learning and Time Series Forecasting
 - Building dashboards with Tableau and R Shiny
@@ -29,7 +28,7 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
 
 <br>
 📫 **Let’s connect!**  
-[LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/sai-paritala) | [Email](paritalakrishna@example.com)
 <br>
 
 ## Techstack
