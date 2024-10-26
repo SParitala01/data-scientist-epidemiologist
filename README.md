@@ -26,10 +26,14 @@ If you are someone who values curiosity, collaboration, and ideas, I’d be exci
 When I am not analyzing data, I enjoy mentoring other data professionals, staying active in the epidemiology community, and continuously sharpening my skills in emerging technologies.
 </div>
 
+---
+
 <br>
 📫 **Let’s connect!**  
 [LinkedIn](https://www.linkedin.com/in/sai-paritala) | [Email](paritalakrishna@example.com)
 <br>
+
+---
 
 ## Techstack
 ### <span style="color:#FF6347">Programming</span>  
@@ -54,6 +58,7 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
 ### Workflow & Productivity Tools  
 -  JIRA, Notion, Git, GitHub
 
+--
 
 ## Education
 - MPH, Epidemiology | University of Illinois at Chicago (_Aug 2019_)
