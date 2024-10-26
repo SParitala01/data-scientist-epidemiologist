@@ -41,12 +41,12 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
 <table>
   <thead>
     <tr>
-      <th style="text-align:left; width: 30%;">Category</th>
-      <th style="text-align:left; width: 70%;">Tools & Skills</th>
+      <th style="text-align:left; width: 30%; font-weight: bold;">Category</th>
+      <th style="text-align:left; width: 70%; font-weight: bold;">Tools & Skills</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr style="padding: 10px 0;">
       <td style="text-align:left;">🖥️ <b>Programming</b></td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -55,38 +55,38 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
         <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logoColor=white" />
       </td>
     </tr>
-    <tr>
+    <tr style="padding: 10px 0;">
       <td style="text-align:left;">📊 <b>Analytics</b></td>
       <td>
-        <ul style="margin: 0; padding: 0;">
+        <ul style="margin: 0; padding-left: 20px;">
           <li><b>Tools:</b> Tableau, Matplotlib, Seaborn, Plotly, R Shiny, Excel</li>
           <li><b>Techniques:</b> Data Wrangling & Manipulation, A/B Testing, Hypothesis Testing</li>
           <li><b>Modeling:</b> Exploratory Data Analysis, Statistical Modeling</li>
         </ul>
       </td>
     </tr>
-    <tr>
-      <td style="text-align:left;">☁️ <b>Cloud & ETL Platforms</b></td>
+    <tr style="padding: 10px 0;">
+      <td style="text-align:left;">☁️ <b>Cloud & ETL</b></td>
       <td>
-        <ul style="margin: 0; padding: 0;">
+        <ul style="margin: 0; padding-left: 20px;">
           <li>Azure, Databricks</li>
           <li>ETL Processes, REST APIs</li>
         </ul>
       </td>
     </tr>
-    <tr>
-      <td style="text-align:left;">🤖 <b>Predictive Modeling</b></td>
+    <tr style="padding: 10px 0;">
+      <td style="text-align:left;">🤖 <b>Modeling & Forecasting</b></td>
       <td>
-        <ul style="margin: 0; padding: 0;">
+        <ul style="margin: 0; padding-left: 20px;">
           <li>Machine Learning, Time Series Forecasting & Modeling</li>
           <li>Web Data Scraping, EHR, MatchPro</li>
         </ul>
       </td>
     </tr>
-    <tr>
-      <td style="text-align:left;">📋 <b>Productivity Tools</b></td>
+    <tr style="padding: 10px 0;">
+      <td style="text-align:left;">📋 <b>Productivity</b></td>
       <td>
-        <ul style="margin: 0; padding: 0;">
+        <ul style="margin: 0; padding-left: 20px;">
           <li>JIRA, Notion, Git, GitHub</li>
         </ul>
       </td>
