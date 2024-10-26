@@ -2,7 +2,6 @@
 
 
 ## About Me
-<table style="width: 100%;">
 <div align="justify">
 If you’re here, maybe something caught your eye! 👋🏾
 
@@ -26,8 +25,7 @@ If you are someone who values curiosity, collaboration, and ideas, I’d be exci
 <div align="justify">
 When I am not analyzing data, I enjoy mentoring other data professionals, staying active in the epidemiology community, and continuously sharpening my skills in emerging technologies.
 </div>
-<table style="width: 100%;">
-  
+
 ---
 
 <br>
@@ -35,8 +33,8 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
 [LinkedIn](https://www.linkedin.com/in/sai-paritala) | [Email](paritalakrishna@example.com)
 <br>
 
-
 ---
+
 
 ## 💻 Techstack
 
