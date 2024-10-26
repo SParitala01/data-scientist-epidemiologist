@@ -75,11 +75,10 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       </td>
     </tr>
     <tr>
-      <td style="text-align:justify;">🤖 <b>Predictive Modeling</b></td>
+      <td style="text-align:justify;">🤖 <b>Predictive Modeling </b></td>
       <td>
         <div align="justify">
           Machine Learning, Time Series Forecasting & Modeling <br>
-          Web Data Scraping, EHR, MatchPro
         </div>
       </td>
     </tr>
