@@ -1,7 +1,7 @@
 # Data Scientist | Epidemiologist
 
-# Data Scientist | Epidemiologist
 
+<table style="width: 100%;">
 ## About Me
 
 <div align="justify">
@@ -27,7 +27,8 @@ If you are someone who values curiosity, collaboration, and ideas, I’d be exci
 <div align="justify">
 When I am not analyzing data, I enjoy mentoring other data professionals, staying active in the epidemiology community, and continuously sharpening my skills in emerging technologies.
 </div>
-
+<table style="width: 100%;">
+  
 ---
 
 <br>
