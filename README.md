@@ -35,30 +35,21 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
 
 ---
 
-## Techstack
-### <span style="color:#FF6347">Programming</span>  
-- Python, R, SAS, SQL  
+## 💻 Techstack
+
+| **Category**                 | **Tools & Skills**                                          |
+|------------------------------|-------------------------------------------------------------|
+| 🖥️ **Programming**            | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <br>SAS, SQL |
+| 📊 **Analytics**              | Tableau, Matplotlib, Seaborn, Plotly, R Shiny, Excel        |
+|                              | Exploratory Data Analysis, Data Wrangling & Manipulation   |
+|                              | A/B Testing, Hypothesis Testing, Statistical Modeling       |
+| ☁️ **Cloud & ETL Platforms** | Azure, Databricks, ETL Processes, REST APIs                |
+| 🤖 **Machine Learning**      | Machine Learning, Time Series Forecasting & Modeling        |
+|                              | Web Data Scraping, EHR, MatchPro                            |
+| 📋 **Productivity Tools**    | JIRA, Notion, Git, GitHub                                   |
 
 
-### <span style="color:#32CD32">Analytics</span>  
-- Tableau, Matplotlib Seaborn Plotly, R Shiny, Microsoft Excel
-- Exploratory Data Analysis, Data Wrangling & Manipulation
-- A/B Testing, Hypothesis Testing, Statistical Modeling  
-
-
-### <span style="color:#FFA500">Cloud & ETL Platforms</span> 
-- Azure, Databricks, ETL Processes, Rest APIs  
-
-
-### <span style="color:#8A2BE2">Machine Learning</span>  
-- Machine Learning, Time Series Forecasting & Modeling  
-- Web Data Scraping, EHR, MatchPro  
-
-
-### Workflow & Productivity Tools  
--  JIRA, Notion, Git, GitHub
-
---
+---
 
 ## Education
 - MPH, Epidemiology | University of Illinois at Chicago (_Aug 2019_)
