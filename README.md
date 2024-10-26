@@ -38,18 +38,16 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
 
 ## 💻 Techstack
 
-## 💻 Techstack
-
 <table>
   <thead>
     <tr>
-      <th style="text-align:justify; width: 30%;">Category</th>
-      <th style="text-align:justify; width: 70%;">Tools & Skills</th>
+      <th style="text-align:left; width: 30%;">Category</th>
+      <th style="text-align:left; width: 70%;">Tools & Skills</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:justify;">🖥️ <b>Programming</b></td>
+      <td style="text-align:left;">🖥️ <b>Programming</b></td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
@@ -58,46 +56,39 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       </td>
     </tr>
     <tr>
-      <td style="text-align:justify;">📊 <b>Analytics</b></td>
+      <td style="text-align:left;">📊 <b>Analytics</b></td>
       <td>
-        <div align="justify">
-          <ul>
-            <li><b>Tools:</b> Tableau, Matplotlib, Seaborn, Plotly, R Shiny, Excel</li>
-            <li><b>Techniques:</b> Data Wrangling & Manipulation, A/B Testing, Hypothesis Testing</li>
-            <li><b>Modeling:</b> Exploratory Data Analysis, Statistical Modeling</li>
-          </ul>
-        </div>
+        <ul style="margin: 0; padding: 0;">
+          <li><b>Tools:</b> Tableau, Matplotlib, Seaborn, Plotly, R Shiny, Excel</li>
+          <li><b>Techniques:</b> Data Wrangling & Manipulation, A/B Testing, Hypothesis Testing</li>
+          <li><b>Modeling:</b> Exploratory Data Analysis, Statistical Modeling</li>
+        </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:justify;">☁️ <b>Cloud & ETL Platforms</b></td>
+      <td style="text-align:left;">☁️ <b>Cloud & ETL Platforms</b></td>
       <td>
-        <div align="justify">
-          <ul>
-            <li>Azure, Databricks</li>
-            <li>ETL Processes, REST APIs</li>
-          </ul>
-        </div>
+        <ul style="margin: 0; padding: 0;">
+          <li>Azure, Databricks</li>
+          <li>ETL Processes, REST APIs</li>
+        </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:justify;">🤖 <b>Predictive Modeling</b></td>
+      <td style="text-align:left;">🤖 <b>Predictive Modeling</b></td>
       <td>
-        <div align="justify">
-          <ul>
-            <li>Machine Learning, Time Series Forecasting & Modeling</li>
-          </ul>
-        </div>
+        <ul style="margin: 0; padding: 0;">
+          <li>Machine Learning, Time Series Forecasting & Modeling</li>
+          <li>Web Data Scraping, EHR, MatchPro</li>
+        </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:justify;">📋 <b>Productivity Tools</b></td>
+      <td style="text-align:left;">📋 <b>Productivity Tools</b></td>
       <td>
-        <div align="justify">
-          <ul>
-            <li>JIRA, Notion, Git, GitHub</li>
-          </ul>
-        </div>
+        <ul style="margin: 0; padding: 0;">
+          <li>JIRA, Notion, Git, GitHub</li>
+        </ul>
       </td>
     </tr>
   </tbody>
