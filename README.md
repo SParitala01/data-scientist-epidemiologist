@@ -60,8 +60,9 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       <td>
         <div align="justify">
           Tableau, Matplotlib, Seaborn, Plotly, R Shiny, Excel <br>
-          Exploratory Data Analysis, Data Wrangling & Manipulation <br>
-          A/B Testing, Hypothesis Testing, Statistical Modeling
+          Exploratory Data Analysis, Data Wrangling & Manipulation 
+          A/B Testing, Hypothesis Testing, Statistical Modeling 
+          Web Data Scraping, EHR, MatchPro <br>
         </div>
       </td>
     </tr>
