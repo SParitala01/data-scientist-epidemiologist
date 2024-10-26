@@ -94,7 +94,6 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
   </tbody>
 </table>
 
----
 
 ## Education
 - MPH, Epidemiology | University of Illinois at Chicago (_Aug 2019_)
