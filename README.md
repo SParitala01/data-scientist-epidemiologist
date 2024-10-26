@@ -38,26 +38,25 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
 
 ## 💻 Techstack
 
-## 💻 Techstack
-
 <table>
   <thead>
     <tr>
-      <th style="text-align:left; width: 30%;">Category</th>
+      <th style="text-align:justify; width: 30%;">Category</th>
       <th style="text-align:justify; width: 70%;">Tools & Skills</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>🖥️ <b>Programming</b></td>
+      <td style="text-align:justify;">🖥️ <b>Programming</b></td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-        <br>SAS, SQL
+        <img src="https://img.shields.io/badge/SAS-2E8B57?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logoColor=white" />
       </td>
     </tr>
     <tr>
-      <td>📊 <b>Analytics</b></td>
+      <td style="text-align:justify;">📊 <b>Analytics</b></td>
       <td>
         <div align="justify">
           Tableau, Matplotlib, Seaborn, Plotly, R Shiny, Excel <br>
@@ -67,7 +66,7 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       </td>
     </tr>
     <tr>
-      <td>☁️ <b>Cloud & ETL Platforms</b></td>
+      <td style="text-align:justify;">☁️ <b>Cloud & ETL Platforms</b></td>
       <td>
         <div align="justify">
           Azure, Databricks, ETL Processes, REST APIs
@@ -75,7 +74,7 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       </td>
     </tr>
     <tr>
-      <td>🤖 <b>Machine Learning</b></td>
+      <td style="text-align:justify;">🤖 <b>AI & Predictive Modeling</b></td>
       <td>
         <div align="justify">
           Machine Learning, Time Series Forecasting & Modeling <br>
@@ -84,7 +83,7 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       </td>
     </tr>
     <tr>
-      <td>📋 <b>Productivity Tools</b></td>
+      <td style="text-align:justify;">📋 <b>Productivity Tools</b></td>
       <td>
         <div align="justify">
           JIRA, Notion, Git, GitHub
@@ -95,7 +94,6 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
 </table>
 
 ---
-
 
 ## Education
 - MPH, Epidemiology | University of Illinois at Chicago (_Aug 2019_)
