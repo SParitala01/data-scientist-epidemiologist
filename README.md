@@ -56,11 +56,12 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       </td>
     </tr>
     <tr style="padding: 10px 0;">
-      <td style="text-align:left;">📊 <b>Analytics</b></td>
+      <td style="text-align:left;">📊 <b>Analytics & Statistical Modeling</b></td>
       <td>
         <ul style="margin: 0; padding-left: 20px;">
           <li><b>Tools:</b> Tableau, Matplotlib, Seaborn, Plotly, R Shiny, Excel</li>
-          <li><b>Core Skills:</b> Data Wrangling, Hypothesis Testing, Exploratory Data Analysis, Statistical Modeling</li>
+          <li><b>Core Skills:</b> Data Wrangling, Hypothesis Testing, Exploratory Data Analysis</li>
+          <li><b>Statistical Models:</b> Linear Regression, Logistic Regression, Time-Series Models (ARIMA, sARIMA), Survival Analysis</li>
         </ul>
       </td>
     </tr>
@@ -74,11 +75,12 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       </td>
     </tr>
     <tr style="padding: 10px 0;">
-      <td style="text-align:left;">🤖 <b>Modeling & Forecasting</b></td>
+      <td style="text-align:left;">🤖 <b>Machine Learning & Forecasting</b></td>
       <td>
         <ul style="margin: 0; padding-left: 20px;">
-          <li><b>Skills:</b> Machine Learning (with Time Series Forecasting)</li>
-          <li><b>Tools:</b> Web Data Scraping, EHR Systems, MatchPro</li>
+          <li><b>Algorithms & Techniques:</b> Supervised Learning (Regression, Classification), Unsupervised Learning (Clustering, PCA), Feature Engineering</li>
+          <li><b>Frameworks & Tools:</b> Scikit-learn, TensorFlow, PyTorch, XGBoost</li>
+          <li><b>Applications:</b> Time-Series Forecasting (ARIMA, LSTM), Model Deployment with MLflow</li>
         </ul>
       </td>
     </tr>
