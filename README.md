@@ -66,7 +66,7 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       </td>
     </tr>
     <tr>
-      <td style="text-align:justify;">☁️ <b>Cloud & ETL Platforms</b></td>
+      <td style="text-align:justify;">☁️ <b>Cloud & ETL </b></td>
       <td>
         <div align="justify">
           Azure, Databricks, ETL Processes, REST APIs
@@ -74,7 +74,7 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       </td>
     </tr>
     <tr>
-      <td style="text-align:justify;">🤖 <b>AI & Predictive Modeling</b></td>
+      <td style="text-align:justify;">🤖 <b>Predictive Modeling</b></td>
       <td>
         <div align="justify">
           Machine Learning, Time Series Forecasting & Modeling <br>
@@ -83,7 +83,7 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       </td>
     </tr>
     <tr>
-      <td style="text-align:justify;">📋 <b>Productivity Tools</b></td>
+      <td style="text-align:justify;">📋 <b>Productivity</b></td>
       <td>
         <div align="justify">
           JIRA, Notion, Git, GitHub
