@@ -58,36 +58,36 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
     <tr>
       <td style="text-align:justify;">📊 <b>Analytics</b></td>
       <td>
-        <div align="justify">
-          Tableau, Matplotlib, Seaborn, Plotly, R Shiny, Excel <br>
-          Exploratory Data Analysis, Data Wrangling & Manipulation 
-          A/B Testing, Hypothesis Testing, Statistical Modeling 
-          Web Data Scraping, EHR, MatchPro <br>
-        </div>
+        <ul>
+          <li>Tools: Tableau, Matplotlib, Seaborn, Plotly, R Shiny, Excel</li>
+          <li>Techniques: Data Wrangling & Manipulation, A/B Testing, Hypothesis Testing</li>
+          <li>Modeling: Exploratory Data Analysis, Statistical Modeling</li>
+        </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:justify;">☁️ <b>Cloud & ETL </b></td>
+      <td style="text-align:justify;">☁️ <b>Cloud & ETL Platforms</b></td>
       <td>
-        <div align="justify">
-          Azure, Databricks, ETL Processes, REST APIs
-        </div>
+        <ul>
+          <li>Azure, Databricks</li>
+          <li>ETL Processes, REST APIs</li>
+        </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:justify;">🤖 <b>Predictive Modeling </b></td>
+      <td style="text-align:justify;">🤖 <b>Predictive Modeling</b></td>
       <td>
-        <div align="justify">
-          Machine Learning, Time Series Forecasting & Modeling <br>
-        </div>
+        <ul>
+          <li>Machine Learning, Time Series Forecasting & Modeling</li>
+        </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:justify;">📋 <b>Productivity</b></td>
+      <td style="text-align:justify;">📋 <b>Productivity Tools</b></td>
       <td>
-        <div align="justify">
-          JIRA, Notion, Git, GitHub
-        </div>
+        <ul>
+          <li>JIRA, Notion, Git, GitHub</li>
+        </ul>
       </td>
     </tr>
   </tbody>
