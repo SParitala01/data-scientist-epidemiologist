@@ -1,9 +1,8 @@
 # Data Scientist | Epidemiologist
 
 
-<table style="width: 100%;">
 ## About Me
-
+<table style="width: 100%;">
 <div align="justify">
 If you’re here, maybe something caught your eye! 👋🏾
 
