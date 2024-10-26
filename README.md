@@ -33,23 +33,69 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
 [LinkedIn](https://www.linkedin.com/in/sai-paritala) | [Email](paritalakrishna@example.com)
 <br>
 
+
 ---
 
 ## 💻 Techstack
 
-| **Category**                 | **Tools & Skills**                                          |
-|------------------------------|-------------------------------------------------------------|
-| 🖥️ **Programming**            | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <br>SAS, SQL |
-| 📊 **Analytics**              | Tableau, Matplotlib, Seaborn, Plotly, R Shiny, Excel        |
-|                              | Exploratory Data Analysis, Data Wrangling & Manipulation   |
-|                              | A/B Testing, Hypothesis Testing, Statistical Modeling       |
-| ☁️ **Cloud & ETL Platforms** | Azure, Databricks, ETL Processes, REST APIs                |
-| 🤖 **Machine Learning**      | Machine Learning, Time Series Forecasting & Modeling        |
-|                              | Web Data Scraping, EHR, MatchPro                            |
-| 📋 **Productivity Tools**    | JIRA, Notion, Git, GitHub                                   |
+## 💻 Techstack
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left; width: 30%;">Category</th>
+      <th style="text-align:justify; width: 70%;">Tools & Skills</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🖥️ <b>Programming</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+        <br>SAS, SQL
+      </td>
+    </tr>
+    <tr>
+      <td>📊 <b>Analytics</b></td>
+      <td>
+        <div align="justify">
+          Tableau, Matplotlib, Seaborn, Plotly, R Shiny, Excel <br>
+          Exploratory Data Analysis, Data Wrangling & Manipulation <br>
+          A/B Testing, Hypothesis Testing, Statistical Modeling
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>☁️ <b>Cloud & ETL Platforms</b></td>
+      <td>
+        <div align="justify">
+          Azure, Databricks, ETL Processes, REST APIs
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>🤖 <b>Machine Learning</b></td>
+      <td>
+        <div align="justify">
+          Machine Learning, Time Series Forecasting & Modeling <br>
+          Web Data Scraping, EHR, MatchPro
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>📋 <b>Productivity Tools</b></td>
+      <td>
+        <div align="justify">
+          JIRA, Notion, Git, GitHub
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
+
 
 ## Education
 - MPH, Epidemiology | University of Illinois at Chicago (_Aug 2019_)
