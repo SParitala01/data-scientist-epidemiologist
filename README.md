@@ -2,6 +2,7 @@
 
 
 ## About Me
+
 <div align="justify">
 If you’re here, maybe something caught your eye! 👋🏾
 
@@ -47,10 +48,7 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
   </thead>
   <tbody>
     <tr style="vertical-align: top;">
-      <td style="text-align: left; padding: 8px; display: flex; align-items: center;">
-        <img src="https://img.icons8.com/material-rounded/24/000000/computer.png" style="margin-right: 8px;" />
-        <b>Programming </b>
-      </td>
+      <td style="text-align: left; padding: 8px;">🖥️ <b>Programming</b></td>
       <td style="padding: 8px;">
         <div style="display: flex; gap: 8px; flex-wrap: wrap;">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -61,10 +59,7 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       </td>
     </tr>
     <tr style="vertical-align: top;">
-      <td style="text-align: left; padding: 8px; display: flex; align-items: center;">
-        <img src="https://img.icons8.com/material-outlined/24/000000/statistics.png" style="margin-right: 8px;" />
-        <b>Analytics & Statistical Modeling</b>
-      </td>
+      <td style="text-align: left; padding: 8px;">📊 <b>Analytics & Statistical Modeling</b></td>
       <td style="padding: 8px;">
         <ul style="margin: 0; padding: 4px 0 4px 16px; text-align: left; white-space: nowrap;">
           <li><b>Tools:</b> Tableau, Matplotlib, Seaborn, Plotly, R Shiny, Excel</li>
@@ -74,10 +69,7 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       </td>
     </tr>
     <tr style="vertical-align: top;">
-      <td style="text-align: left; padding: 8px; display: flex; align-items: center;">
-        <img src="https://img.icons8.com/material-rounded/24/000000/cloud.png" style="margin-right: 8px;" />
-        <b>Cloud & ETL</b>
-      </td>
+      <td style="text-align: left; padding: 8px;">☁️ <b>Cloud & ETL</b></td>
       <td style="padding: 8px;">
         <ul style="margin: 0; padding: 4px 0 4px 16px; text-align: left;">
           <li><b>Platforms:</b> Azure, Databricks</li>
@@ -86,10 +78,7 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       </td>
     </tr>
     <tr style="vertical-align: top;">
-      <td style="text-align: left; padding: 8px; display: flex; align-items: center;">
-        <img src="https://img.icons8.com/material-rounded/24/000000/artificial-intelligence.png" style="margin-right: 8px;" />
-        <b>Machine Learning & Forecasting</b>
-      </td>
+      <td style="text-align: left; padding: 8px;">🤖 <b>Machine Learning & Forecasting</b></td>
       <td style="padding: 8px;">
         <ul style="margin: 0; padding: 4px 0 4px 16px; text-align: left; word-break: break-word;">
           <li><b>Techniques:</b> Supervised Learning (Linear & Logistic Regression, Classification), Feature Engineering</li>
@@ -100,10 +89,7 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
       </td>
     </tr>
     <tr style="vertical-align: top;">
-      <td style="text-align: left; padding: 8px; display: flex; align-items: center;">
-        <img src="https://img.icons8.com/material-rounded/24/000000/checklist.png" style="margin-right: 8px;" />
-        <b>Productivity</b>
-      </td>
+      <td style="text-align: left; padding: 8px;">📋 <b>Productivity</b></td>
       <td style="padding: 8px;">
         <ul style="margin: 0; padding: 4px 0 4px 16px; text-align: left;">
           <li>JIRA (Project Management), Notion (Documentation), Git/GitHub (Version Control)</li>
