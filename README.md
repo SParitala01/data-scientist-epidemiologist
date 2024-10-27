@@ -49,7 +49,7 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
     <tr style="vertical-align: top;">
       <td style="text-align: left; padding: 8px; display: flex; align-items: center;">
         <img src="https://img.icons8.com/material-rounded/24/000000/computer.png" style="margin-right: 8px;" />
-        <b>Programming</b>
+        <b>Programming </b>
       </td>
       <td style="padding: 8px;">
         <div style="display: flex; gap: 8px; flex-wrap: wrap;">
