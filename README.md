@@ -36,67 +36,68 @@ When I am not analyzing data, I enjoy mentoring other data professionals, stayin
 ---
 
 
-## 💻 Techstack
-
-<table style="width: 100%;">
-  <thead>
-    <tr>
-      <th style="text-align: left; width: 25%; font-weight: bold;">Category</th>
-      <th style="text-align: left; width: 75%; font-weight: bold;">Tools & Skills</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="vertical-align: top;">
-      <td style="text-align: left; padding: 8px;">🖥️ <b>Programming</b></td>
-      <td style="padding: 8px;">
-        <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-          <img src="https://img.shields.io/badge/SAS-2E8B57?style=for-the-badge&logoColor=white" />
-          <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logoColor=white" />
-        </div>
-      </td>
-    </tr>
-    <tr style="vertical-align: top;">
-      <td style="text-align: left; padding: 8px;">📊 <b>Analytics & Statistical Modeling</b></td>
-      <td style="padding: 8px;">
-        <ul style="margin: 0; padding: 4px 0 4px 16px; text-align: left; white-space: nowrap;">
-          <li><b>Tools:</b> Tableau, Matplotlib, Seaborn, Plotly, R Shiny, Excel</li>
-          <li><b>Core Skills:</b> Data Wrangling, Hypothesis Testing, Exploratory Data Analysis</li>
-          <li><b>Models:</b> Linear Regression, Logistic Regression, Time-Series Models (ARIMA, sARIMA), Survival Analysis</li>
-        </ul>
-      </td>
-    </tr>
-    <tr style="vertical-align: top;">
-      <td style="text-align: left; padding: 8px;">☁️ <b>Cloud & ETL</b></td>
-      <td style="padding: 8px;">
-        <ul style="margin: 0; padding: 4px 0 4px 16px; text-align: left;">
-          <li><b>Platforms:</b> Azure, Databricks</li>
-          <li><b>Expertise:</b> ETL Processes, API Integration</li>
-        </ul>
-      </td>
-    </tr>
-    <tr style="vertical-align: top;">
-      <td style="text-align: left; padding: 8px;">🤖 <b>Machine Learning & Forecasting</b></td>
-      <td style="padding: 8px;">
-        <ul style="margin: 0; padding: 4px 0 4px 16px; text-align: left; word-break: break-word;">
-          <li><b>Techniques:</b> Supervised Learning (Linear & Logistic Regression, Classification), Feature Engineering</li>
-          <li><b>Forecasting:</b> Time-Series Models (ARIMA, sARIMA, LSTM)</li>
-          <li><b>Libraries & Tools:</b> Scikit-learn, XGBoost, TensorFlow</li>
-          <li><b>Applications:</b> Predictive Modeling for Healthcare, Model Deployment with MLflow</li>
-        </ul>
-      </td>
-    </tr>
-    <tr style="vertical-align: top;">
-      <td style="text-align: left; padding: 8px;">📋 <b>Productivity</b></td>
-      <td style="padding: 8px;">
-        <ul style="margin: 0; padding: 4px 0 4px 16px; text-align: left;">
-          <li>JIRA (Project Management), Notion (Documentation), Git/GitHub (Version Control)</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div style="width: 100%; padding: 20px; box-sizing: border-box;">
+  <h2>💻 Techstack</h2>
+  <table style="width: 100%; border-spacing: 0; border-collapse: collapse;">
+    <thead>
+      <tr>
+        <th style="text-align: left; vertical-align: middle; width: 30%; padding: 10px; font-weight: bold;">Category</th>
+        <th style="text-align: left; vertical-align: middle; width: 70%; padding: 10px; font-weight: bold;">Tools & Skills</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="vertical-align: top;">
+        <td style="text-align: left; vertical-align: middle; padding: 12px;">🖥️ <b>Programming</b></td>
+        <td style="padding: 12px;">
+          <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+            <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+            <img src="https://img.shields.io/badge/SAS-2E8B57?style=for-the-badge&logoColor=white" />
+            <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logoColor=white" />
+          </div>
+        </td>
+      </tr>
+      <tr style="vertical-align: top;">
+        <td style="text-align: left; vertical-align: middle; padding: 12px;">📊 <b>Analytics & Statistical Modeling</b></td>
+        <td style="padding: 12px;">
+          <ul style="margin: 0; padding: 4px 0 4px 16px; text-align: left;">
+            <li><b>Tools:</b> Tableau, Matplotlib, Seaborn, Plotly, R Shiny, Excel</li>
+            <li><b>Core Skills:</b> Data Wrangling, Hypothesis Testing, Exploratory Data Analysis</li>
+            <li><b>Models:</b> Linear Regression, Logistic Regression, Time-Series Models (ARIMA, sARIMA), Survival Analysis</li>
+          </ul>
+        </td>
+      </tr>
+      <tr style="vertical-align: top;">
+        <td style="text-align: left; vertical-align: middle; padding: 12px;">☁️ <b>Cloud & ETL</b></td>
+        <td style="padding: 12px;">
+          <ul style="margin: 0; padding: 4px 0 4px 16px; text-align: left;">
+            <li><b>Platforms:</b> Azure, Databricks</li>
+            <li><b>Expertise:</b> ETL Processes, API Integration</li>
+          </ul>
+        </td>
+      </tr>
+      <tr style="vertical-align: top;">
+        <td style="text-align: left; vertical-align: middle; padding: 12px;">🤖 <b>Machine Learning & Forecasting</b></td>
+        <td style="padding: 12px;">
+          <ul style="margin: 0; padding: 4px 0 4px 16px; text-align: left;">
+            <li><b>Techniques:</b> Supervised Learning (Linear & Logistic Regression, Classification), Feature Engineering</li>
+            <li><b>Forecasting:</b> Time-Series Models (ARIMA, sARIMA, LSTM)</li>
+            <li><b>Libraries & Tools:</b> Scikit-learn, XGBoost, TensorFlow</li>
+            <li><b>Applications:</b> Predictive Modeling for Healthcare, Model Deployment with MLflow</li>
+          </ul>
+        </td>
+      </tr>
+      <tr style="vertical-align: top;">
+        <td style="text-align: left; vertical-align: middle; padding: 12px;">📋 <b>Productivity</b></td>
+        <td style="padding: 12px;">
+          <ul style="margin: 0; padding: 4px 0 4px 16px; text-align: left;">
+            <li>JIRA (Project Management), Notion (Documentation), Git/GitHub (Version Control)</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
 ## Education
